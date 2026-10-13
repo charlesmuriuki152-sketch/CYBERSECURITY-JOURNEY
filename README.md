@@ -50,8 +50,7 @@ This section documents certifications earned throughout my cybersecurity journey
 
 ### CERTIFICATES
 
-- [Download: Getting Started with Cisco Packet Tracer (PDF)](https://github.com/charlesmuriuki152-sketch/Packet-Tracer/raw/main/Getting_Started_with_Cisco_Packet_Tracer_certificate_charlesmuriuki152-gmail-com_1947a0d20a7c4d04be65da15ab2c8a37.pdf)
-- [Download: Introduction to Cybersecurity — Cisco Academy (PDF)](https://github.com/charlesmuriuki152-sketch/Packet-Tracer/raw/main/I2CSUpdate20260213-31-q9siso.pdf)
+
 
 ---
 
